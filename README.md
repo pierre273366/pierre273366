@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pierre273366&label=Profile%20views&color=0e75b6&style=flat" alt="pierre273366" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pierre273366" alt="pierre273366" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [in building](in building)
+- 👨‍💻 All of my projects are available at [newport-front.vercel.app](newport-front.vercel.app)
 
 - 📫 How to reach me **pierre.roitg@live.fr**
 
